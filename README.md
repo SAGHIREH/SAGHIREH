@@ -9,4 +9,4 @@ I specialize in building robust, scalable automations and backend pipelines usin
 - 🛠 **Tech Stack:** `n8n` | `Docker` | `DDD` | `JSON Schema` | `Git`
 
 ---
-![Sajad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SajadSaghireh&show_icons=true&theme=radical)
+![Sajad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAGHIREH&show_icons=true&theme=radical)
